@@ -1,0 +1,13 @@
+{
+  "name": "Custom Toolbar with React Quill (Fully working)",
+  "version": "1.0.0",
+  "description": "Quill test with a custom toolbar built with an HTML template. The toolbar includes custom font families, custom font sizes and a custom button. ",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/6x93pk4rp3",
+  "main": "index.js",
+  "dependencies": {
+    "react-quill": "1.2.3",
+    "react-dom": "16.0.0",
+    "react": "16.0.0"
+  }
+}
